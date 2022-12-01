@@ -1,8 +1,7 @@
 --Data Exploration: MonkeyPox Analysis
 
 --Skills displayed: 
---Case Statements, Grouping Functions, Correlated Subqueries, Multiple Table Queries and Joins, Analytical Functions,
---Common Table Expression, Creating Tables
+--Case Statements, Grouping Functions, Correlated Subqueries, Multiple Table Queries and Joins, Analytical Functions, Common Table Expression, Creating Tables
 
 --Datasets:
 Select Country, Confirmed_Cases, Suspected_Cases, Hospitalized
